@@ -17,6 +17,6 @@ ytmusic.add_playlist_items(playlistId, [search_results[1]['videoId']])
 
 print('-------------------------------------------------------------------------------------------------------')
 
-yt = YouTube('https://music.youtube.com/watch?v=XZ868t23Pb4')
+yt = YouTube('https://youtu.be/XZ868t23Pb4')
 
 print(yt.streams)
