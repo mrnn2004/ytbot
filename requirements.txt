@@ -1,2 +1,3 @@
 ytmusicapi
 pytube3
+youtube_dl
