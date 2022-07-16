@@ -1,1 +1,1 @@
-worker: python main.py
+worker: python youtube-dl-test.py
